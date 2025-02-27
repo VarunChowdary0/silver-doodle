@@ -12,3 +12,4 @@ C:\PROGRAMS\DOTNET\C_Sharp_Learning\OOPS\MiniPrjs\TextEditor\obj\Debug\net9.0\re
 C:\PROGRAMS\DOTNET\C_Sharp_Learning\OOPS\MiniPrjs\TextEditor\obj\Debug\net9.0\TextEditor.pdb
 C:\PROGRAMS\DOTNET\C_Sharp_Learning\OOPS\MiniPrjs\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
 C:\PROGRAMS\DOTNET\C_Sharp_Learning\OOPS\MiniPrjs\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll
+C:\PROGRAMS\DOTNET\C_Sharp_Learning\OOPS\MiniPrjs\TextEditor\obj\Debug\net9.0\TextEditor.sourcelink.json
