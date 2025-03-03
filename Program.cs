@@ -20,7 +20,11 @@ public class Program
         
         // StockNotifyApp stockApp = new();
         // stockApp.Run();
-        CommandApp commandApp = new();
-        commandApp.Run();
+        
+        // CommandApp commandApp = new();
+        // commandApp.Run();
+        
+        RemoterController controller = new RemoterController();
+        controller.Run();
     }
 }
